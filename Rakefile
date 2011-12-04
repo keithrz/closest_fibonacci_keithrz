@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "closest_fibonacci_keithrz"
   gem.homepage = "http://github.com/keithrz/closest_fibonacci_keithrz"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Adds a Fixnum method for finding the closest Fibonacci value.}
+  gem.description = %Q{The purpose of this gem is for testing purposes.}
   gem.email = "keithrz@gmail.com"
   gem.authors = ["Keith Zimmerman"]
   # dependencies defined in Gemfile

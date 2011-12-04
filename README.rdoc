@@ -1,6 +1,14 @@
 = closest_fibonacci_keithrz
 
-Description goes here.
+Installing this gem adds the following method to Fixnum
+  closest_fibonacci
+
+The method returns the closest Fibonacci value to the Fixnum's value.
+The Fibonacci value could be higher or lower than the Fixnum's value.
+
+ex. 156.closest_fibonacci => 144
+    99.closest_fibonacci => 89
+    88.closest_fibonacci => 89 
 
 == Contributing to closest_fibonacci_keithrz
  
